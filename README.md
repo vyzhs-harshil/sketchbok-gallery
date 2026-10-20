@@ -6,7 +6,7 @@ available on this version.
 
 ## Publish on GitHub Pages
 
-1. Create a **new public** repository on GitHub. Name it `sketchbook-gallery`;
+1. Create a **new public** repository on GitHub. Name it `sketchbok-gallery`;
    leave
    the README, `.gitignore`, and license options unchecked.
 2. Open PowerShell in this project folder. In File Explorer, open the folder,
@@ -29,7 +29,7 @@ available on this version.
    deployment**, set the source to **GitHub Actions**.
 5. Open the **Actions** tab and wait for **Publish static gallery** to finish
    successfully. Your public site URL will be
-   `https://YOUR-USERNAME.github.io/sketchbook-gallery/`.
+   `https://YOUR-USERNAME.github.io/sketchbok-gallery/`.
 
 To change the public gallery, edit `sketches.json` and add or remove image files
 in `uploads/`. Each entry needs an `id`, `title`, `story`, and `image` path such
