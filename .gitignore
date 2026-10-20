@@ -1,0 +1,15 @@
+/.env
+/.env.example
+/data/
+!/uploads/
+/uploads/*
+!/uploads/*.jpg
+!/uploads/*.jpeg
+!/uploads/*.png
+!/uploads/*.webp
+!/uploads/*.gif
+/admin.html
+/admin.js
+/server.mjs
+/package.json
+/render.yaml
